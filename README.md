@@ -1,2 +1,2 @@
 # parallelProject
-parallel computing algorithms applied to Quantum Field Theory calculations
+parallel computing algorithms applied to Computer Sciences and Basic (undergraduate) Scientific formation
